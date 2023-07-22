@@ -1,0 +1,12 @@
+{
+    "https://api.shinyapps.io": {
+        "server_url": "https://api.shinyapps.io",
+        "filename": "C:\\Users\\habto\\Desktop\\NWMS classes\\CI\\Module 4 Final\\cintel-04-reactive",
+        "app_url": "https://habtomwoldu.shinyapps.io/cintel-04-reactive/",
+        "app_id": 9493867,
+        "app_guid": null,
+        "title": "cintel-04-reactive",
+        "app_mode": "python-shiny",
+        "app_store_version": 1
+    }
+}
